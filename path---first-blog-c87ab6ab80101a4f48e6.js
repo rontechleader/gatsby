@@ -1,0 +1,2 @@
+webpackJsonp([73144382770798],{389:function(t,b){t.exports={data:{contentstackBlogs:{title:"First Blog",id:"3b95783e-52e8-5910-a30b-9bcc557676db",url:"/first-blog",description:"",authors:[{id:"862f5436-289d-53b0-9592-20ad8ef00b5b",name:"test"}]}},pathContext:{id:"3b95783e-52e8-5910-a30b-9bcc557676db"}}}});
+//# sourceMappingURL=path---first-blog-c87ab6ab80101a4f48e6.js.map
