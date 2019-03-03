@@ -1,0 +1,2 @@
+webpackJsonp([0x9b883cabbb00],{398:function(e,t){e.exports={data:{allContentstackFun:{edges:[{node:{id:"9157b62d-5e17-54c7-abf9-aee8384c2e3e",url:"/firstentry",title:"FirstEntry"}},{node:{id:"d63fb39f-7fb7-5301-82ed-6b53dc238f99",url:"/secondentry",title:"SecondEntry"}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---fun-84f471af0dc8e52b4350.js.map

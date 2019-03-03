@@ -17,16 +17,16 @@
       "path---first-blog-f4ab330c13bee703f42a.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-a6ad8310544d0aa7fb3b.js",
-      "component---src-layouts-index-js-a6ad8310544d0aa7fb3b.js.map"
+      "component---src-layouts-index-js-d5d8346cae9234d58c28.js",
+      "component---src-layouts-index-js-d5d8346cae9234d58c28.js.map"
     ],
     "path---blogs": [
-      "path---blogs-9a41004a41844766dc13.js",
-      "path---blogs-9a41004a41844766dc13.js.map"
+      "path---blogs-8c960ff575e3e09aab33.js",
+      "path---blogs-8c960ff575e3e09aab33.js.map"
     ],
     "path---index": [
-      "path---index-8e582bf88a8260b28f74.js",
-      "path---index-8e582bf88a8260b28f74.js.map"
+      "path---index-8c20a253751a67a90163.js",
+      "path---index-8c20a253751a67a90163.js.map"
     ],
     "path---second-blog": [
       "path---second-blog-7774b8a1918e16bbed9c.js",
@@ -40,19 +40,31 @@
       "commons-4aa602502e1327a17519.js",
       "commons-4aa602502e1327a17519.js.map"
     ],
+    "path---fun": [
+      "path---fun-84f471af0dc8e52b4350.js",
+      "path---fun-84f471af0dc8e52b4350.js.map"
+    ],
+    "path---blog-3": [
+      "path---blog-3-140a0a9d4f9b2397b970.js",
+      "path---blog-3-140a0a9d4f9b2397b970.js.map"
+    ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---blog-34": [
-      "path---blog-34-6f99caaad33f84b89c41.js",
-      "path---blog-34-6f99caaad33f84b89c41.js.map"
+    "component---src-pages-fun-js": [
+      "component---src-pages-fun-js-21db5e0a0b415b7a629b.js",
+      "component---src-pages-fun-js-21db5e0a0b415b7a629b.js.map"
     ],
     "app": [
-      "app-c3a89d271dd2fca0b9e4.js",
+      "app-2b829acf273f4d7a3837.js",
       "build-js-styles.css",
-      "app-c3a89d271dd2fca0b9e4.js.map",
+      "app-2b829acf273f4d7a3837.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---blog-4": [
+      "path---blog-4-640dd2e6666ba8e51c9e.js",
+      "path---blog-4-640dd2e6666ba8e51c9e.js.map"
     ],
     "component---src-pages-blogs-js": [
       "component---src-pages-blogs-js-c0abb52d3e5d2f8790c6.js",
