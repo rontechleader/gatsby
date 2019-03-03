@@ -17,8 +17,8 @@
       "path---first-blog-f4ab330c13bee703f42a.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-d5d8346cae9234d58c28.js",
-      "component---src-layouts-index-js-d5d8346cae9234d58c28.js.map"
+      "component---src-layouts-index-js-1ee8b0e1beb42f3e25e9.js",
+      "component---src-layouts-index-js-1ee8b0e1beb42f3e25e9.js.map"
     ],
     "path---blogs": [
       "path---blogs-8c960ff575e3e09aab33.js",
@@ -57,9 +57,9 @@
       "component---src-pages-fun-js-21db5e0a0b415b7a629b.js.map"
     ],
     "app": [
-      "app-2b829acf273f4d7a3837.js",
+      "app-737e2091c05c6d2bb477.js",
       "build-js-styles.css",
-      "app-2b829acf273f4d7a3837.js.map",
+      "app-737e2091c05c6d2bb477.js.map",
       "build-js-styles.css.map"
     ],
     "path---blog-4": [
@@ -73,6 +73,14 @@
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-0c9f81d21746d310a68d.js",
+      "component---src-pages-about-js-0c9f81d21746d310a68d.js.map"
+    ],
+    "path---about": [
+      "path---about-0bf1ee65aad024ffc849.js",
+      "path---about-0bf1ee65aad024ffc849.js.map"
     ]
   }
 }
